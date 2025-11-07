@@ -1,3 +1,11 @@
+/*
+Nama Program: Pengganti Pembacaan huruf C
+Nama : Azrel Sakhi Reswara
+NPM: 140810250098
+Tanggal Buat: 6 November 2025
+Deskripsi: Mengganti pembacaan huruf sesuai pembacaan Inggris
+*/
+
 #include <iostream>
 #include <string>
 
