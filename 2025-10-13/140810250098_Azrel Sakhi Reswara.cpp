@@ -2,7 +2,7 @@
 Nama Program: Perhitungan Kerucut
 Nama : Azrel Sakhi Reswara
 NPM: 140810250098
-Tanggal Buat: 28 Agustus 2025
+Tanggal Buat: 13 Oktober 2025
 Deskripsi: Menghitung luas(selimut dan permukaan) dan volume kerucut
 */
 

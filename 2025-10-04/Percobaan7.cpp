@@ -2,7 +2,7 @@
 Nama Program: Perhitungan Pangkat
 Nama : Azrel Sakhi Reswara
 NPM: 140810250098
-Tanggal Buat: 3 Oktober 2025
+Tanggal Buat: 4 Oktober 2025
 Deskripsi: Melakukan perhitungan Pangkat
 */
 

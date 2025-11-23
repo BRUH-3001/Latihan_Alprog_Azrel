@@ -1,11 +1,3 @@
-/*
-Nama Program: Pemberian Nilai
-Nama : Azrel Sakhi Reswara
-NPM: 140810250098
-Tanggal Buat: 3 September 2025
-Deskripsi: Melakukan pengecekan nilai dan memberikan label di rentan nilai itu berada
-*/
-
 #include "iostream"
 #include "iomanip"
 
